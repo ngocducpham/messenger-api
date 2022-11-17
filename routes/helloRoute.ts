@@ -3,4 +3,6 @@ import { hello } from '../controllers/hello';
 
 const router = express.Router();
 
-router.route('/hello').get(hello)
+router.route('/').get(hello)
+
+export default router;

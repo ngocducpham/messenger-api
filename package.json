@@ -4,9 +4,7 @@
   "main": "server.js",
   "license": "MIT",
   "scripts": {
-    "build": "npx tsc",
-    "start": "node server.js",
-    "dev": "nodemon"
+    
   },
   "dependencies": {
     "body-parser": "^1.20.1",

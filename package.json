@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "npx tsc",
-    "start": "node src/server.js",
+    "start": "node server.js",
     "dev": "nodemon"
   },
   "dependencies": {
